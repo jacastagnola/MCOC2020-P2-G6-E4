@@ -38,4 +38,12 @@ Al rediseñar se obtiene el peso:
 
 #### ¿Cual es el desplazamiento vertical máximo en los nodos del tablero del reticulado antes y después de los cambios?
 
+Antes de los cambios:
+
+![alt text](https://github.com/FelipeAravenaR98/MCOC2020-P2-G6-E4/blob/main/Desplazamiento%20antes.JPG?raw=true)
+
+Despues de los cambios:
+
+![alt text](https://github.com/FelipeAravenaR98/MCOC2020-P2-G6-E4/blob/main/Desplazamientos%20nodos%20redise%C3%B1o%20funcion.JPG?raw=true)
+
 #### Comente respecto de la nueva distribución de LaTeX: FUF U del reticulado y el peso del mismo. ¿Que cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo? 
