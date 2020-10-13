@@ -25,7 +25,7 @@ Peso :
 
 #### ¿Cual es el desplazamiento vertical máximo en los nodos del tablero del reticulado antes y después de los cambios?
 
-#### Comente respecto de la nueva distribución de LaTeX: FUF U del reticulado y el peso del mismo. ¿Que cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo? 
+#### Comente respecto de la nueva distribución de FU del reticulado y el peso del mismo. ¿Que cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo? 
 
 Se modificaron las barras 3, 7 , 20  21, 22, 23 a un radio de 10 [cm] y un espesor de 3 [mm] 
 
