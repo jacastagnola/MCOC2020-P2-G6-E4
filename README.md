@@ -20,7 +20,7 @@ Como se puede ver el reticulado se debe resideñar segun el caso 2 debido a que 
 
 
 
-#### Escoja 5 barras interesantes del reticulado (identificadas por sus nodos) y manualmente realice el rediseño, buscando minimizar el peso de la barra y cumplir conLaTeX: FU \lt 1.0F U < 1.0, pero cerca a LaTeX: 1.01.0. . comparando con los resultados de su programa. 
+#### Escoja 5 barras interesantes del reticulado (identificadas por sus nodos) y manualmente realice el rediseño, buscando minimizar el peso de la barra y cumplir con FU < 1, pero cerca a 1.0 comparando con los resultados de su programa. 
 
 #### Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declarelos ahora. 
 
@@ -48,4 +48,4 @@ Despues de los cambios:
 
 Distancias en metros.
 
-#### Comente respecto de la nueva distribución de LaTeX: FUF U del reticulado y el peso del mismo. ¿Que cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo? 
+#### Comente respecto de la nueva distribución de FU del reticulado y el peso del mismo. ¿Que cambios globales se pueden hacer para mejorar aún más el costo (peso del acero) del mismo? 
