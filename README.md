@@ -19,6 +19,16 @@ Peso :
 
 #### Escoja 5 barras interesantes del reticulado (identificadas por sus nodos) y manualmente realice el rediseño, buscando minimizar el peso de la barra y cumplir conLaTeX: FU \lt 1.0F U < 1.0, pero cerca a LaTeX: 1.01.0. . comparando con los resultados de su programa. 
 
+Barras elegidas para rediseñar
+
+ • 3 [0-7]
+ • 7 [3-10]
+ • 20 []
+ • 21 []
+ • 22 []
+ • 23 []
+
+A estas barras se les cabio el valor del radio a 10 [cm] y el espesor a 3 [mm]
 #### Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declarelos ahora. 
 
 #### Mostrar los nuevos factores de utilización, fuerzas en las barras y deformada para cada combinación de carga. Para esto, Graficando todo lo pedido y explicando sus criterios de rediseño. 
