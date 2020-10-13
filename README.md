@@ -22,10 +22,15 @@ Peso :
 Barras elegidas para rediseñar
 
  • 3 [0-7]
+ 
  • 7 [3-10]
+ 
  • 20 []
+ 
  • 21 []
+ 
  • 22 []
+ 
  • 23 []
 
 A estas barras se les cabio el valor del radio a 10 [cm] y el espesor a 3 [mm]
