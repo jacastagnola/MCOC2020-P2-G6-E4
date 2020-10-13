@@ -123,7 +123,52 @@ ver_reticulado_3d(ret_D,
 plt.title("FU caso 2: 1.2 D + 1.6 L")
 plt.show()
 
+"""
+ Para ver la deformada
+"""
 
-Fu = #definir
+#f = ret_L.recuperar_fuerzas()
+#fu1 = ret_L.recuperar_factores_de_utilizacion(f)
+#
+#ver_reticulado_3d(ret_L, 
+#    opciones_nodos = {
+#        "usar_posicion_deformada": True,
+#        "factor_amplificacion_deformada": 150.,
+#    },
+#    opciones_barras = {
+#        "color_barras_por_dato": False,
+#        "ver_numeros_de_barras": False,
+#        "ver_dato_en_barras": False,
+#        "ver_dato_en_nodo": True,
+#        "dato": fu1,
+#        "color_fondo": [1,1,1,0.4]
+#    }, 
+#    llamar_show=True,
+#    zoom=180.,
+#    deshabilitar_ejes=True)
+#
+#plt.title("Deformada ")
+#plt.show()
+#
+#nodos = 11
+#for a in range(nodos):
+#    print(f" nodo {a}: {ret_D.obtener_desplazamiento_nodal(a)*100}")
 
+
+
+Fu = FU_caso1
+#print(Fu)
 ret_D.rediseñar(Fu)
+
+peso = ret_D.calcular_peso_total()
+
+
+
+
+
+
+
+
+
+
+
