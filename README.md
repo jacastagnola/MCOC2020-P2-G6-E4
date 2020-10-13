@@ -21,17 +21,17 @@ Peso :
 
 Barras elegidas para rediseñar
 
- • 3 [0-7]
+ • 3 [nodos 0-7]
  
- • 7 [3-10]
+ • 7 [nodos 3-10]
  
- • 20 []
+ • 20 [nodos]
  
- • 21 []
+ • 21 [nodos]
  
- • 22 []
+ • 22 [nodos]
  
- • 23 []
+ • 23 [nodos]
 
 A estas barras se les cabio el valor del radio a 10 [cm] y el espesor a 3 [mm]
 #### Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declarelos ahora. 
