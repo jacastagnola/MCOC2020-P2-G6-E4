@@ -22,6 +22,22 @@ Como se puede ver el reticulado se debe resideñar segun el caso 2 debido a que 
 
 #### Escoja 5 barras interesantes del reticulado (identificadas por sus nodos) y manualmente realice el rediseño, buscando minimizar el peso de la barra y cumplir con FU < 1, pero cerca a 1.0 comparando con los resultados de su programa. 
 
+Barras elegidas para rediseñar
+
+ • 3 [0-7]
+
+ • 7 [3-10]
+
+ • 20 []
+
+ • 21 []
+
+ • 22 []
+
+ • 23 []
+
+A estas barras se les cambio el valor del radio a 10 [cm] y el espesor a 3 [mm]
+
 #### Explique en detalle su función de rediseño de cada barra. Si existen supuestos importantes, declarelos ahora. 
  * En primer lugar, el objetivo de la función de rediseño de cada barra,  fue calcular el valor más optimo para el radio y espesor, logrando así, que el F.U tienda a 1.
   * En segundo lugar, el supuesto más importante que se realizo fue que F.U debe ser menor o igual a 1. Con esto se aseguró que el puente, fuese una estructura segura y por lo tanto se encuentre dentro de los rangos óptimos de diseño. 
